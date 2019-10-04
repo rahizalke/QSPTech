@@ -26,20 +26,20 @@
       <![CDATA[checkbox has been entered]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24687" started-at="2019-10-03T05:59:18Z" finished-at="2019-10-03T05:59:43Z">
+  <suite name="Default suite" duration-ms="26562" started-at="2019-10-03T17:54:31Z" finished-at="2019-10-03T17:54:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24687" started-at="2019-10-03T05:59:18Z" finished-at="2019-10-03T05:59:43Z">
+    <test name="Default test" duration-ms="26562" started-at="2019-10-03T17:54:31Z" finished-at="2019-10-03T17:54:58Z">
       <class name="TestCase.LogintoApplication1">
-        <test-method status="PASS" signature="LoadingFiles()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="LoadingFiles" is-config="true" duration-ms="188" started-at="2019-10-03T11:29:18Z" finished-at="2019-10-03T11:29:18Z">
+        <test-method status="PASS" signature="LoadingFiles()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="LoadingFiles" is-config="true" duration-ms="360" started-at="2019-10-03T23:24:31Z" finished-at="2019-10-03T23:24:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoadingFiles -->
-        <test-method status="PASS" signature="launchingBrowser()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="launchingBrowser" is-config="true" duration-ms="12705" started-at="2019-10-03T11:29:18Z" finished-at="2019-10-03T11:29:31Z">
+        <test-method status="PASS" signature="launchingBrowser()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="launchingBrowser" is-config="true" duration-ms="14290" started-at="2019-10-03T23:24:31Z" finished-at="2019-10-03T23:24:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchingBrowser -->
-        <test-method status="PASS" signature="logintoApplication1(java.util.Hashtable)[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="logintoApplication1" duration-ms="6238" started-at="2019-10-03T11:29:31Z" data-provider="Data_Collection" finished-at="2019-10-03T11:29:37Z">
+        <test-method status="PASS" signature="logintoApplication1(java.util.Hashtable)[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="logintoApplication1" duration-ms="6391" started-at="2019-10-03T23:24:46Z" data-provider="Data_Collection" finished-at="2019-10-03T23:24:52Z">
           <params>
             <param index="0">
               <value>
@@ -74,11 +74,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- logintoApplication1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="closeBrowser" is-config="true" duration-ms="5711" started-at="2019-10-03T11:29:37Z" finished-at="2019-10-03T11:29:43Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="closeBrowser" is-config="true" duration-ms="5725" started-at="2019-10-03T23:24:52Z" finished-at="2019-10-03T23:24:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="writeIntoExtentReport()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="writeIntoExtentReport" is-config="true" duration-ms="266" started-at="2019-10-03T11:29:43Z" finished-at="2019-10-03T11:29:43Z">
+        <test-method status="PASS" signature="writeIntoExtentReport()[pri:0, instance:TestCase.LogintoApplication1@78b729e6]" name="writeIntoExtentReport" is-config="true" duration-ms="392" started-at="2019-10-03T23:24:58Z" finished-at="2019-10-03T23:24:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- writeIntoExtentReport -->
